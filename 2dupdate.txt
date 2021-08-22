@@ -1,1 +1,1 @@
-{"version":"2","link":"https://www.reloltv.com/","message":"newapp","title":"newapp"}
+{"version":"1","link":"https://www.reloltv.com/","message":"newapp","title":"newapp"}
